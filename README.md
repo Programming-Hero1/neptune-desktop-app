@@ -1,1 +1,1 @@
-# neptune-desktop-app
+# Neptune Desktop Application
