@@ -29,3 +29,14 @@ if [ $? -eq 0 ]; then
 else
   echo "Failed to download file."
 fi
+
+# Install the downloaded file
+echo "Installing $FILENAME..."
+./$FILENAME
+
+# Check if the installation was successful
+if [ $? -eq 0 ]; then
+  echo "Installation successful."
+else
+  echo "Installation failed."
+fi
