@@ -1,6 +1,8 @@
 
 ## নেপচুন ডেস্কটপ এপ্লিকেশন (শুধুমাত্র উইন্ডোজ এর জন্য)
 
+> যদি পিসিতে পুরাতন কোনো ভার্সন ইন্সটল করা থাকে, তাহলে অবশ্যই তা আনইন্সটল করে নিবে।
+
 ### কিভাবে ইন্সটল করবে?
 - প্রথমেই তুমি যেখানে এপ্লিকেশনটি ডাউনলোড করতে চাও, সেই ফোল্ডারে গিট ব্যাশ ওপেন করো।
 - তারপর, গিট ব্যাশে নিচের কমান্ডটি কপি/পেস্ট করে রান করো।
@@ -11,6 +13,8 @@ bash <(curl -s https://raw.githubusercontent.com/Programming-Hero1/neptune-deskt
 ```
 
 ## Neptune Desktop Application (Only for windows)
+
+> Uninstall previous version first, before running this command.
 
 ### Installation
 - Open git bash in the directory you want to download the application
