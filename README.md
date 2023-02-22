@@ -14,7 +14,7 @@ bash <(curl -s https://raw.githubusercontent.com/Programming-Hero1/neptune-deskt
 
 ## Neptune Desktop Application (Only for windows)
 
-> Uninstall previous version first, before running this command.
+> Uninstall any previous versions installed before running this command.
 
 ### Installation
 - Open git bash in the directory you want to download the application
