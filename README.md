@@ -1,3 +1,6 @@
+## ভিডিও ইন্সট্রাকশন
+[How to Install Neptune Desktop App](https://drive.google.com/file/d/1K7p81Kw02moCN5jZ3nF0ZxWI_lfLZB6H/view?usp=share_link)
+
 
 ## নেপচুন ডেস্কটপ এপ্লিকেশন (শুধুমাত্র উইন্ডোজ এর জন্য)
 
